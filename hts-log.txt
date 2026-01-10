@@ -1,0 +1,13 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 08 Jan 2026 17:56:38 at https://passionate-emails-109921.framer.app/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://passionate-emails-109921.framer.app/ -O1 "C:\Users\ASUS\Desktop\VS CODE\FRAMER\Portfolio\portfolio" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:56:54	Error: 	"Not Found" (404) at link https://passionate-emails-109921.framer.app/[object Object] (from https://passionate-emails-109921.framer.app/)
+17:56:59	Error: 	"Not Found" (404) at link https://passionate-emails-109921.framer.app/projects/[object Object] (from https://passionate-emails-109921.framer.app/projects/pixel-pathway)
+
+HTTrack Website Copier/3.49-2 mirror complete in 21 seconds : 35 links scanned, 32 files written (5532175 bytes overall) [2279260 bytes received at 108536 bytes/sec], 4123428 bytes transferred using HTTP compression in 15 files, ratio 15%, 2.5 requests per connection
+(2 errors, 0 warnings, 0 messages)
